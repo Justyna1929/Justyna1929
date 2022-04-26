@@ -1,4 +1,5 @@
 ### Justyna Sulisz
+---
 
 My name is Justyna and I'm from Poland 🇵🇱
 
@@ -6,21 +7,20 @@ I am an inspiring Data Analyst, and master of Landscape Architecture. After grad
 
 The ability to learn quickly, patience and independence allow me to find myself in a world full of data!
 
-
+---
 
 **Skills:**
 
- Excel/ SQL/Power BI
+ 
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png' alt='Excel' height='40'>    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png' alt='Power BI' height='40'>  <img src='https://cdn1.iconfinder.com/data/icons/round-ui/143/33-512.png' alt='SQL' height='40'>
 
 
 
- 📫 How to reach me: **justyna_s@keemail.me** 
+ You can reach me here: **justyna_s@keemail.me** 
+ 
+ ---
  
  **Social Meddia:**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Justyna1929)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/justyna-sulisz-85037a9a//)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Justyna1929)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Justyna1929&show_icons=true)  
+[<img src='https://logodix.com/logo/64439.png' alt='github' height='40' >](https://github.com/Justyna1929)  [<img src='https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png' alt='kaggle' height='40'>](https://www.kaggle.com/justynasulisz)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/justyna-sulisz-85037a9a//)  
 
