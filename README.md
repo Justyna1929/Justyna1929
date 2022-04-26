@@ -1,7 +1,7 @@
-### Justyna Sulisz
+### About me
 ---
 
-My name is Justyna and I'm from Poland 🇵🇱
+My name is Justyna and I'm from Poland 🇵🇱, currently living in China 🇨🇳
 
 I am an inspiring Data Analyst, and master of Landscape Architecture. After graduating from university, my life took a decidedly different course. Currently, I am in the process of changing my working profile. I am interested in data analytics, especially in data visualization, which I notice is very similar what I already did in my university. 
 
