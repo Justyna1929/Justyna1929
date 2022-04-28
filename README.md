@@ -20,7 +20,7 @@ The ability to learn quickly, patience and independence allow me to find myself 
  
  ---
  
- **Social Meddia:**
+ **Social Media:**
 
 [<img src='https://logodix.com/logo/64439.png' alt='github' height='40' >](https://github.com/Justyna1929)  [<img src='https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png' alt='kaggle' height='40'>](https://www.kaggle.com/justynasulisz)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/justyna-sulisz-85037a9a//)  
 
