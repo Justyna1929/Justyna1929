@@ -24,3 +24,10 @@ The ability to learn quickly, patience and independence allow me to find myself 
 
 [<img src='https://logodix.com/logo/64439.png' alt='github' height='40' >](https://github.com/Justyna1929)  [<img src='https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png' alt='kaggle' height='40'>](https://www.kaggle.com/justynasulisz)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/justyna-sulisz-85037a9a//)  
 
+---
+
+**My Power BI portfolio:**
+
+[<img src='https://media-exp2.licdn.com/dms/image/C4D0BAQFOZsQluqWW8A/company-logo_200_200/0/1653979722881?e=1664409600&v=beta&t=_TWmqhb5i7QUviGI_Qjy3-63LohcmtEalOc7FMNQXD0' alt='novypro' height='40' >](https://www.novypro.com/profile_projects/justyna)
+
+---
